@@ -133,3 +133,6 @@ configuration like this:
         ]
     },
 ```
+**********
+Notice: You have to comment some code if you plan to package for your self while you customize the sprites or others assets. After that, you build with the above command or without the actually build command.
+**********
